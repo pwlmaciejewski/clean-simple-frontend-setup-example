@@ -1,0 +1,18 @@
+{
+  "name": "clean-simple-frontend-setup-example",
+  "version": "0.0.0",
+  "authors": [
+    "fragphace <fragphace@gmail.com>"
+  ],
+  "description": "Clean simple front-end setup example",
+  "license": "MIT",
+  "homepage": "http://fragphace.pl",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
