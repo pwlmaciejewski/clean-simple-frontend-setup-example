@@ -1,1 +1,11 @@
-{}
+{
+    "jquery": {
+        "path": "bower_components/jquery/jquery.js",
+        "exports": "$"
+    },
+
+    "olay": {
+        "path": "bower_components/olay/olay.js",
+        "exports": "Olay"
+    }
+}

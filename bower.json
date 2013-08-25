@@ -14,5 +14,9 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "olay": "~0.2.3",
+    "jquery": "~2.0.3"
+  }
 }
