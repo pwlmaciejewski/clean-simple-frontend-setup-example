@@ -2,7 +2,7 @@ Clean and simple front-end project setup template example
 ===========================
 
 Example use of 
-(https://github.com/fragphace/clean-simple-frontend-setup)[https://github.com/fragphace/clean-simple-frontend-setup]
+[https://github.com/fragphace/clean-simple-frontend-setup](https://github.com/fragphace/clean-simple-frontend-setup)
 
 ## Usage
 
